@@ -1,11 +1,11 @@
 [package]
 name = "beancount-parser-lima-python"
-version = "0.9.0-alpha.1"
+version = "0.9.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "Python bindings for beancount-parser-lima"
-homepage = "https://github.com/tesujimath/beancount-parser-lima"
-repository = "https://github.com/tesujimath/beancount-parser-lima"
+description = "Proof of concept Python bindings for beancount-parser-lima"
+homepage = "https://github.com/tesujimath/beancount-parser-lima-python"
+repository = "https://github.com/tesujimath/beancount-parser-lima-python"
 
 [lib]
 name = "beancount_parser_lima"
