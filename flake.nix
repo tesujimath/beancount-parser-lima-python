@@ -37,7 +37,6 @@
               cargo-outdated
               cargo-edit
               gcc
-              gdb
               rust-analyzer
               rust-bin.stable.latest.default
               rustfmt
